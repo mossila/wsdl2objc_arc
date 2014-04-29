@@ -11,7 +11,7 @@ A fork project from https://code.google.com/p/wsdl2objc/  to use without -fno-ob
 5. Go to `Build Settings` add `/usr/include/libxml2` to `Header search paths`
 
 #Example
-```
+```objective-c
 #import "ServiceNameSvc.h"
 ...
 @interface MyClass<ServiceNameSoapBindingResponseDelegate>
