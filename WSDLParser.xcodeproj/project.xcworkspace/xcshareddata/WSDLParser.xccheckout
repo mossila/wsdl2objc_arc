@@ -5,47 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>E4BEDCA4-BB6E-420D-ACDD-6478CF7E57B5</string>
+	<string>DEECF055-0C3B-4476-B345-7E59CE0AC087</string>
 	<key>IDESourceControlProjectName</key>
 	<string>WSDLParser</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>12953953-1CCA-43ED-9CEA-6C421495572E</key>
-		<string>http://wsdl2objc.googlecode.com/svn/trunk</string>
+		<key>21870093-D265-4B04-B6AB-BEC3894372EF</key>
+		<string>https://github.com/mossila/wsdl2objc_arc.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>WSDLParser.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>12953953-1CCA-43ED-9CEA-6C421495572E</key>
+		<key>21870093-D265-4B04-B6AB-BEC3894372EF</key>
 		<string>../..</string>
 	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>12953953-1CCA-43ED-9CEA-6C421495572E</key>
-		<string>http://wsdl2objc.googlecode.com/svn</string>
-	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>http://wsdl2objc.googlecode.com/svn/trunk/WSDLParser.xcodeproj</string>
+	<string>https://github.com/mossila/wsdl2objc_arc.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>12953953-1CCA-43ED-9CEA-6C421495572E</string>
+	<string>21870093-D265-4B04-B6AB-BEC3894372EF</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
-			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
-			<string>branches</string>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
-			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
-			<string>tags</string>
-			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
-			<string>trunk</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>12953953-1CCA-43ED-9CEA-6C421495572E</string>
+			<string>21870093-D265-4B04-B6AB-BEC3894372EF</string>
 			<key>IDESourceControlWCCName</key>
-			<string>wsdl2objc-read-only</string>
+			<string>wsdl2objc_arc</string>
 		</dict>
 	</array>
 </dict>
