@@ -120,7 +120,7 @@
 	[panel setAllowsMultipleSelection:NO];
 	[panel setAllowedFileTypes:[NSArray arrayWithObject:@"wsdl"]];
 	if([panel runModal] == NSOKButton) {
-		NSString *chosenPath = [[panel URLs] lastObject];
+		NSString *chosenPath = [[panel URL] path];
 		NSUserDefaultsController *defaults = [NSUserDefaultsController sharedUserDefaultsController];
 		[defaults setValue:chosenPath forKeyPath:@"values.wsdlPath"];
 	}
@@ -135,7 +135,7 @@
 	[panel setAllowsMultipleSelection:NO];
 	
 	if([panel runModal] == NSOKButton) {
-		NSString *chosenPath = [[panel URLs] lastObject];
+		NSString *chosenPath = [[panel URL] path];
 		NSUserDefaultsController *defaults = [NSUserDefaultsController sharedUserDefaultsController];
 		[defaults setValue:chosenPath forKeyPath:@"values.outPath"];
 	}
